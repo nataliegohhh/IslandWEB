@@ -1,0 +1,10 @@
+Tarno,Table and 2 Chairs,1
+Reso,Picnic Table,1
+Musk,Cover for Furniture Set,1
+Askholmen,Folding Chair,1
+Sundero,Bench,1
+Arholma,Sofa Combination,1
+Garpen,Corner Section,1
+Hamo,Sun Lounger,1
+Loko,Parasol with Base,1
+Hol,Side Table,2
